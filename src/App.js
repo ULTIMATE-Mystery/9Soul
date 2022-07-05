@@ -48,7 +48,7 @@ function App() {
       <div>
         <Navbar />
       </div>
-      <div className="py-4 mt-10 ">
+      <div className="">
         <div>
           <HomeVideo isMobile={isMobile} />
         </div>

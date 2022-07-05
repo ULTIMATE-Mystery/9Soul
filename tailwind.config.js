@@ -18,6 +18,8 @@ module.exports = {
         "gray-900": "#0F0F0F",
         "orange-main": "#FF9800",
         "yellow-main": "#FFC72C",
+        "dark-gray": "#222222",
+        "red": "#E52521",
       },
       fontSize: {
         8: "8px",
